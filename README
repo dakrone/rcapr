@@ -1,0 +1,10 @@
+Huzzah! An API for pcapr (http://pcapr.net)
+
+Doesn't work yet. Do not consume unless you know what you're doing.
+
+######################################################
+Be sure to change ./features/step_definitions/config.yml to have your
+pcapr username and password in order to run the tests
+
+Cucumber tests: run 'rake features'
+######################################################
