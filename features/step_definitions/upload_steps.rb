@@ -5,6 +5,7 @@ require 'rcapr'
 require 'env'
 
 Before do
+  @username, @password = get_creds()
   @rc = Rcapr.new(@username, @password)
 end
 

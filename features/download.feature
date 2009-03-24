@@ -10,7 +10,7 @@ Feature: Downloads
 
   Examples:
     | p_id |
-    | 100  |
-    | 101  |
+    | f424b4421b0f3e0ab191dc90d8964fac |
+    | c6be820e5c1cf9f9f37871602c7a8ed1 |
 
 # vim: set ts=2 sw=2
