@@ -9,7 +9,7 @@ Feature: Uploads
     Then the pcap file should be uploaded
 
   Examples:
-    | filename |
-    | t.pcap   |
+    | filename  |
+    | test.pcap |
 
 # vim: set ts=2 sw=2
