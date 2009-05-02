@@ -1,0 +1,7 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/rcapr
+lib/rcapr.rb
+test/test_rcapr.rb
